@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://tenkaichicer.github.io/sitemap/sitemap.txt
